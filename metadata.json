@@ -1,0 +1,8 @@
+{
+  "name": "Dizzy Unblocked",
+  "description": "Clean, lightning-fast unblocked web games portal powered by an iframe JSON catalog with tab cloaking and fullscreen play.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
